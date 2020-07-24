@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.htpp import HttpResponse
+from django.http import HttpResponse
 from math import factorial
 # Create your views here.
 
